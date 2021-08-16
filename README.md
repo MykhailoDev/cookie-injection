@@ -1,6 +1,6 @@
 # cookie-injection
 
-1. instal dependensies
+1. install dependencies
 `npm install`
 2. Start server
 `npm start`
